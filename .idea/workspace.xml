@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7dc1346-6a98-427e-808f-8c42238aa4b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FlappyBird/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlappyBird/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlappyBird/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlappyBird/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlappyBird/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlappyBird/FlappyBird.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlappyBird/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlappyBird/src/Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlappyBird/src/Pipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlappyBird/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlappyBird/src/View.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FlappyBird" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LYQI6K4SWsXPve8aM85yqlv5V8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ACER/IdeaProjects/TP6DPBO2526C1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7dc1346-6a98-427e-808f-8c42238aa4b0" name="Changes" comment="" />
+      <created>1793628439498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793628439498</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
